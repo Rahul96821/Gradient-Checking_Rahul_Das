@@ -123,5 +123,3 @@ jupyter notebook gradient_checking.ipynb
 With gradient checking, you can be confident that your deep learning model computes correct gradients. This provides a **strong foundation for accurate fraud detection**, ensuring high reliability in real-world applications.
 
 If you want, I can also **add badges, Python version info, and a “Getting Started” section with example outputs** to make it more professional for GitHub.
-
-Do you want me to do that next?
